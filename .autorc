@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ayothepizzathere",
+  "repo": "CatchTwo",
+  "name": "ayothepizzathere",
+  "email": "nutsd8561@gmail.com",
+}
